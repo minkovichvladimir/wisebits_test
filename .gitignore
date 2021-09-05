@@ -20,3 +20,5 @@
 
 /docker/pgdata/*
 !/docker/pgdata/.gitkeep
+
+/.idea
